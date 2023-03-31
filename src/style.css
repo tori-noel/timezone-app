@@ -1,0 +1,12 @@
+.select-bar {
+  display: block;
+  margin: auto;
+  position: relative;
+  margin-top: 300px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+  font-size: 30px;
+  font-family: "Questrial", sans-serif;
+}
